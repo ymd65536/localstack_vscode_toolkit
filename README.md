@@ -1,4 +1,4 @@
-# 【AWS】検証！AWS Support Automation Workflows（SAW）でEC2を停止する
+# 【AWS】LocalStackとAWS Toolkit for VS Codeでローカルサーバーレス開発を検証
 
 ## はじめに
 この記事では「この前リリースされた機能って実際に動かすとどんな感じなんだろう」とか「もしかしたら内容次第では使えるかも？？」などAWSサービスの中でも特定の機能にフォーカスして検証していく記事です。
