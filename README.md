@@ -1,18 +1,3 @@
-# 【AWS】用語を整理しながら学ぶAWS
-
-## はじめに
-
-この記事ではAWSが提供するAmazon Neptuneを学習していく内容となっています。
-主な内容としては実践したときのメモを中心に書きます。（忘れやすいことなど）
-誤りなどがあれば修正していく想定です。
-
-# 【AWS】手を動かして学ぶ
-
-## はじめに
-
-この記事ではMountpoint for Amazon S3(以下、Mountpoint for S3)を使って、EC2にS3バケットをマウントする触る話を書きます。主な内容としては実践したときのメモを中心に書きます。（忘れやすいことなど）
-誤りなどがあれば修正していく想定です。
-
 # 【AWS】検証！AWS Support Automation Workflows（SAW）でEC2を停止する
 
 ## はじめに
@@ -21,7 +6,17 @@
 主な内容としては実践したときのメモを中心に書きます。（忘れやすいことなど）
 誤りなどがあれば書き直していく予定です。
 
-今回はAWS Systems Managerが機能として提供しているAWS Support Automation Workflowsを検証してみます。
+今回はLocalStackとAWS ToolKitの統合を検証してみます。
+
+## LocalStackってなんぞ？
+
+## ハンズオン
+
+## まとめ
+
+## 参考
+
+- [Enhance the local testing experience for serverless applications with LocalStack | AWS Compute Blog](https://aws.amazon.com/jp/blogs/compute/enhance-the-local-testing-experience-for-serverless-applications-with-localstack/)
 
 ## AWS CLI インストールと SSO ログイン手順 (Linux環境)
 
