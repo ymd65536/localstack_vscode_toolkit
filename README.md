@@ -6,9 +6,15 @@
 主な内容としては実践したときのメモを中心に書きます。（忘れやすいことなど）
 誤りなどがあれば書き直していく予定です。
 
-今回はLocalStackとAWS ToolKitの統合を検証してみます。
+今回はLocalStackとAWS Toolkitの統合を検証してみます。
 
 ## LocalStackってなんぞ？
+
+簡単に説明するとAWSの環境をローカル環境で試すことができるツールです。
+公式ドキュメントでは以下のように説明されています。
+
+> LocalStack streamlines your feedback loop, bringing the cloud directly to your laptop. Same production behavior. Faster feedback. Fully under your control.
+> 訳：LocalStackはフィードバックループを効率化し、クラウドをラップトップに直接接続します。本番環境と同等の動作で、より迅速なフィードバックを実現。すべてをあなたの手でコントロールできます
 
 ## ハンズオン
 
